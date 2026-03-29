@@ -1,0 +1,5 @@
+Algorithm,Win%,Draw%,Loss%,WinAsP1%,WinAsP2%
+Minimax,0.0,100.0,0.0,0.0,0.0
+Minimax-AB,0.0,100.0,0.0,0.0,0.0
+Q-Learning,0.0,35.4,64.6,0.0,0.0
+DQN,0.0,8.6,91.4,0.0,0.0

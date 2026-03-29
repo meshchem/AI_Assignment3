@@ -1,0 +1,5 @@
+Algorithm,vsDefault%,AvgH2H%,Overall%
+Minimax,0.0,64.0,32.0
+Minimax-AB,0.0,63.7,31.8
+Q-Learning,0.0,11.0,5.5
+DQN,0.0,17.3,8.6
