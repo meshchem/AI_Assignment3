@@ -1,0 +1,5 @@
+Algorithm,Win%,Draw%,Loss%,WinAsP1%,WinAsP2%,AvgGameLength,AvgMoveTimeMs,WinRateVariance
+Minimax,50.0,0.0,50.0,100.0,0.0,18.00,926.868,0.2500
+Minimax-AB,50.0,0.0,50.0,100.0,0.0,18.00,129.372,0.2500
+Q-Learning,4.0,0.0,96.0,2.0,6.0,17.74,0.055,0.0196
+DQN,0.0,0.0,100.0,0.0,0.0,7.50,0.191,0.0000

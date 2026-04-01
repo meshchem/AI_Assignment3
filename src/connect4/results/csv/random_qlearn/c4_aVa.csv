@@ -1,0 +1,7 @@
+Matchup,Agent1,Agent1Win%,Draw%,Agent2Win%,WinAsP1%,WinAsP2%,AvgGameLength,AvgMoveTimeMs,WinRateVariance
+Minimax vs Minimax-AB,Minimax,50.0,0.0,50.0,100.0,0.0,25.00,816.785,0.2500
+Minimax vs Q-Learning,Minimax,100.0,0.0,0.0,100.0,100.0,14.90,1243.634,0.0000
+Minimax vs DQN,Minimax,100.0,0.0,0.0,100.0,100.0,7.50,1524.136,0.0000
+Minimax-AB vs Q-Learning,Minimax-AB,100.0,0.0,0.0,100.0,100.0,14.70,174.567,0.0000
+Minimax-AB vs DQN,Minimax-AB,100.0,0.0,0.0,100.0,100.0,7.50,249.499,0.0000
+Q-Learning vs DQN,Q-Learning,30.0,0.0,70.0,40.0,20.0,15.60,0.017,0.2100

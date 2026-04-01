@@ -1,0 +1,14 @@
+experiment,variant,eval_win_pct
+QL Alpha,alpha=0.1,69.0
+QL Alpha,alpha=0.2,71.0
+QL Alpha,alpha=0.5,76.0
+QL Gamma,gamma=0.9,71.0
+QL Gamma,gamma=0.95,72.0
+QL Gamma,gamma=0.99,72.0
+QL Epsilon,eps=0.998,68.0
+QL Epsilon,eps=0.999,75.5
+QL Epsilon,eps=0.995,72.5
+DQN Target Update,target_update=200,81.5
+DQN Target Update,target_update=500,67.5
+DQN Target Update,target_update=1000,78.5
+DQN Training Curve,episodes=200000,73.5
