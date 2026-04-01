@@ -1,0 +1,7 @@
+Matchup,Agent1,Agent1Win%,Draw%,Agent2Win%,WinAsP1%,WinAsP2%
+Minimax vs Minimax-AB,Minimax,0.0,100.0,0.0,0.0,0.0
+Minimax vs Q-Learning,Minimax,85.0,15.0,0.0,87.6,82.4
+Minimax vs DQN,Minimax,50.0,50.0,0.0,100.0,0.0
+Minimax-AB vs Q-Learning,Minimax-AB,86.6,13.4,0.0,85.2,88.0
+Minimax-AB vs DQN,Minimax-AB,50.0,50.0,0.0,100.0,0.0
+Q-Learning vs DQN,Q-Learning,26.8,16.6,56.6,43.2,10.4
