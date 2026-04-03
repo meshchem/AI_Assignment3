@@ -4,7 +4,7 @@ Implement Minimax and Reinforcement Learning algorithms for playing: Tic Tac Toe
 
 ## Setup
 
-python3 3.9.
+python3 3.9
 
 Create and activate a virtual environment:
 
@@ -51,8 +51,10 @@ Train DQN agent:
 
 Play the game:
 
-    python3 tictactoe.py --agent minimax_ab                     (vs human player)
-    python3 tictactoe.py --agent minimax_ab --watch default     (algorithm vs algorithm) (can swap for all combinations of algs)
+    Run to play against any algorithm:
+    python3 tictactoe.py --agent minimax-ab (or minimax, qlearn, dqn)                     
+    Run to watch algorithms play eachother:
+    python3 tictactoe.py --agent minimax_ab --watch default     
 
 Evaluate:
 
@@ -72,8 +74,10 @@ Train agents:
 
 Play the game:
 
-    python3 connect4.py --agent minimax_ab                      (vs human player)
-    python3 connect4.py --agent dqn --watch qlearn              (algorithm vs algorithm) (can swap for all combinations of algs)
+    Run to play against any algorithm:
+    python3 connect4.py --agent minimax_ab                     
+    Run to watch algorithms play eachother:
+    python3 connect4.py --agent dqn --watch qlearn              
 
 Evaluate:
 
