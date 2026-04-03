@@ -98,7 +98,7 @@ class Connect4Game:
             self.current_player *= -1   # swap turn
         return True
 
-    # Win detection, checks all directions for a connect 4. 
+    # Winning move, checks all directions for a connect 4. 
     # If found, store the winning cells for UI highlighting.
     def winning_move(self, piece):
         # Horizontal
